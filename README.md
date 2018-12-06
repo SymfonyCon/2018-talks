@@ -173,7 +173,7 @@ By [Nicole Cordes](https://connect.symfony.com/profile/ichhabrecht)
   <dd>This session will explore various setups and case studies from my attempts at hosting sites used by global audiences. There are many ways this can be achieved with different levels of success, budgets and global-ness. The talk will touch on Terraform, AWS, global DNS resolution and CDNs amongst other things.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.seld.be/?file=2018-12-06+Building+global+web+apps+with+multi-region+hosting.html)  
 ~~Video~~
 
 By [Jordi Boggiano](https://connect.symfony.com/profile/seldaek)  
@@ -237,7 +237,7 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
   <dd>How does Doctrine talk to your database? What are Data Mapper, Unit Of Work, and Identity Map? These are the questions I want to answer in this talk. We will look at how Doctrine ORM implements them and what they are there for. Finally we will look at how they compare to Active Record and what the benefits and drawbacks are to help you choose which one fits your needs best.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dbrumann/patterns-behind-doctrine-b31c4791-50a4-4d0f-9a57-a8f93af5b356)  
 ~~Video~~
 
 By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)  
