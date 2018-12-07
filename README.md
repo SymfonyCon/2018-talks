@@ -205,7 +205,7 @@ By [Daniel Gomes](https://connect.symfony.com/profile/danielcsgomes)
   <dd>An all-too-common approach for database error handling is to log the exception, return a 500 reasponse, and move on to the next request. MongoDB and its PHP driver have an array of features that can greatly improve an application's resiliency in the face of unexpected errors. This talk will examine how the driver monitors connections to a cluster and look at how we can tune its behavior to meet an application's unique needs. We'll also demonstrate how PHP applications can take advantage of newer features such as retryable writes and multi-document transactions to guarantee ACID data integrity without having to fall back to PDO and an SQL database.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jmikola/bulletproof-mongodb)  
 ~~Video~~
 
 By [Jeremy Mikola](https://connect.symfony.com/profile/jmikola)  
@@ -221,8 +221,9 @@ By [Jeremy Mikola](https://connect.symfony.com/profile/jmikola)
   <dd>ApiPlatform is great for building API-first software. Even better, it's build on top of Symfony! Did you hear about Symfony's Workflow component? Or the brand new Messenger component? They offer powerful tools! For example, a pizza order can take multiple statuses, each one in transition with another (order, pay, wait, eat). This is a workflow. While waiting for the product, it needs to be cooked! Every time the order is paid, we have to send an instruction to the kitchen. Today, why don't we automatically push that message? Through a real-life use case, I will demonstrate how well these two fit on top of our Symfony-based API!</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://soyuka.github.io/leverage-the-power-of-symfony-components-within-apiplatform/)  
+~~Video~~  
+[Code](https://github.com/soyuka/leverage-the-power-of-symfony-components-within-apiplatform/tree/master/demo)
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
 ![github](icon/github.png) [@soyuka](https://github.com/soyuka)  
@@ -317,7 +318,7 @@ By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)
   <dd>Over the last couple of years, I have heard of Event sourcing but didn't really know where to start until I did a tutorial at DPC '17. After having some basic information it was time to start a Hackathon and after that something production worty. In this talk I will try to give the best information to get started and to know some of the problems you can face if you begin event-sourcing.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://noti.st/webbaard/t39eUN/my-first-year-with-event-sourcing)  
 ~~Video~~
 
 By [Tim Huijzers](https://connect.symfony.com/profile/thuijzers)  
@@ -333,7 +334,7 @@ By [Tim Huijzers](https://connect.symfony.com/profile/thuijzers)
   <dd>Symfony is a request and response framework. But what about all that magic that happens around your code? Why isn’t autowring slowing things down? And how is it that Symfony components can be so decoupled but sill play so well together? I will show you the Symfony internals and its architecture. This talk will go over the architecture of Symfony. We will follow the request and the response paths throw the framework. We will do some stops at the components that are more awesome than others. This talk is perfect for you who is working with Symfony or Laravel and want to understand what the framework actually is doing for you.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/TobiasNyholm/symfony4-internals-125268511)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
@@ -365,7 +366,7 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
   <dd>Scenario: You had an awesome idea. A brand new business. So you have to test it‘s adherence to market… as soon as possible. How? Fortunately we have Symfony and API Platform. This session will cover main topics to build a real world project on top of REST and GraphQL APIs with modern authentication while delivering clients and documentation. Barely touching PHP code for that.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/duodraco/modern-application-built-from-scratch-api-platform-ftw-125261397)  
 ~~Video~~
 
 By [Anderson Casimiro](https://connect.symfony.com/profile/duodraco)  
