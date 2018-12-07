@@ -89,7 +89,7 @@ By [Samuel Roze](https://connect.symfony.com/profile/sroze)
   <dd>You know how HTTP caching works but need more? In this talk we look into ways to cache personalized content. We will look at Edge Side Includes (ESI) to tailor caching rules of fragments, and at the user context concept to differentiate caches not by individual user but by permission groups. A big help to leverage this concept is the FOSHttpCache in combination with either Varnish or the Symfony HttpCache reverse proxy.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://davidbu.ch/slides/2018-12-06-varnish.html)  
 ~~Video~~
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
@@ -157,7 +157,7 @@ By [Lukas Kahwe Smith](https://connect.symfony.com/profile/lsmith)
   <dd>Let me introduce you to the world of static PHP code analyzers. I'd like to show you which tools exists, how to use them and how they help you to improve your code quality.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/ichhabrecht/how-static-php-analyzer-changed-the-way-i-look-at-code)  
 ~~Video~~
 
 By [Nicole Cordes](https://connect.symfony.com/profile/ichhabrecht)  
@@ -253,7 +253,7 @@ By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)
   <dd>If you look at the stage of any conference in the PHP world, people are preaching testing,testing,testing ... If you on the other hand look at the community, the percentage of people writing tests is really low. As a person who went from 'How can I ask for more time/money/resources for testing?' through 'ask for forgiveness instead of permission', to person who writes tests a lot, I still believe testing doesn't make sense. No, it doesnt make sense for all and everyone, often enough it makes no sense for me too. This talk will explore that fuzzy line when you have to shift your mind from one side to the other: in both directions.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-symfonycon2018/)  
 ~~Video~~
 
 By [Miro Svrtan](https://connect.symfony.com/profile/msvrtan)  
