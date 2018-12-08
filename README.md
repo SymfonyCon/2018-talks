@@ -21,7 +21,7 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
   <dd>We got the task to make an order API, from open order, to delivered, with payments in between and after. So there are naturally a lot of states, and a lot of transitions where we needed to calculate the prices correctly and handle credit card transfers. Keeping track of all of this, and when we need to do what, ensuring that an order is always up to date, and that it has the data it needs, and that we send good error messages when a user can not do an action, was a challenge for us until we discovered the workflow component. This is a real happy use case story where I will show you how we did this, and how much more straightforward it was for us to build an otherwise complex system using the workflow component.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/TobiasNyholm/knowing-your-state-machines-symfonycon-lisbon)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
@@ -382,7 +382,7 @@ By [Anderson Casimiro](https://connect.symfony.com/profile/duodraco)
   <dd>Thanks to the new capabilities of the web platform (web components, Progressive Web Apps…) and the rise of modern JS libraries (Vue, React, Angular) almost all modern Symfony applications must leverage the frontend ecosystem. Symfony 4 embed many gems that make it easy to integrate modern JavaScript within the framework, including the first component entirely written in JS: Webpack Encore. In Symfony 4.2, another component that is super convenient for apps containing JS code has been released: Panther, a PHP library compatible with BrowserKit, that drives real web browsers to create end-to-end (E2E) tests with ease. During this talk, I'll show you how to cleanly integrate modern JavaScript code with Symfony and Twig and how to test such applications using Panther. The examples will use VueJS, because it’s probably the easiest JS framework to get started with as a PHP developer, but all the tips and tricks will be applicable with other libraries such as React or Angular.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/coopTilleuls/progressively-enhance-your-symfony-4-app-using-vue-api-platform-mercure-and-panther)  
 ~~Video~~  
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
