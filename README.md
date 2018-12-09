@@ -414,12 +414,12 @@ By [Michael Cullum](https://connect.symfony.com/profile/unknownbliss)
   <dd>A lot happened! 52 blog posts to help you keep up with all new things, a looooot of pull requests, 2 new versions out… Well I'm sure you missed something. Let's review what happened during last year: basically we'll see and/or discover nice new features that appeared since the last year.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonycon-lisbon-a-year-of-symfony)  
 ~~Video~~
 
-By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
-![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
-![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)
+By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
+![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
+![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
 
 And [Sarah Khalil](https://connect.symfony.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
