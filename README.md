@@ -121,10 +121,12 @@ By [Pedro Magalhães](https://connect.symfony.com/profile/pmmaga)
   <dd>Due to complex web projects we work on, there was a need for deeper integration between content management system and eCommerce solution. As eZ Platform is based on Symfony we searched for a Symfony based ecommerce solution and found Sylius as the best choice. We combined the two systems in one Symfony instance so we can integrate on much deeper level. Learn about our experience with merging and maintaining such a solution.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/el_stoffel/using-symfony-forms-with-rich-domain-models-cafc2b0d-2d86-4314-9d8d-d154a26944bf)  
+~~Video~~  
+[RichModelFormsBundle](https://github.com/sensiolabs-de/rich-model-forms-bundle)  
+[Demo App](https://github.com/sensiolabs-de/rich-model-forms-demo)
 
-By [hristopher Hertel](https://connect.symfony.com/profile/chertel)  
+By [Christopher Hertel](https://connect.symfony.com/profile/chertel)  
 ![github](icon/github.png) [@chr-hertel](https://github.com/chr-hertel)  
 ![twitter](icon/twitter.png) [@el_stoffel](https://twitter.com/el_stoffel)
 
