@@ -434,3 +434,16 @@ And [Sarah Khalil](https://connect.symfony.com/profile/saro0h)
 ---
 
 # Lightning Talks
+
+## Your Perfect Local Development Environment
+
+<dl>
+  <dt>Description</dt>
+  <dd>You want to use Docker on your Mac, but you think that Docker4Mac is slow and all the alternatives don't fit your needs? Try a different approach.</dd>
+</dl>
+
+[Slides](https://www.slideshare.net/JensHassler2/symfony-con-2018-local-dev-environment-with-docker-vagrant)  
+
+By [Jens Hassler](https://connect.symfony.com/profile/jhassler)  
+![github](icon/github.png) [@lukey78](https://github.com/lukey78)  
+![twitter](icon/twitter.png) [@lukey47](https://twitter.com/lukey47)
