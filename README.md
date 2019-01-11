@@ -41,7 +41,7 @@ And [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)
   <dd>Behat is widely used as part of a Behaviour Driven Development lifecycle, but it's also widely misused. In this talk Ciaran will explain the BDD process, and show the best practices for using Behat including: writing good scenarios, driving service development from scenarios, fast UI testing, and using Behat and the Symfony2Extension.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/CiaranMcNulty/behat-best-practices-with-symfony-127689420)  
 ~~Video~~
 
 By [Ciaran McNulty](https://connect.symfony.com/profile/ciaranmcnulty)  
